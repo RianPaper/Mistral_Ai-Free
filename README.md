@@ -1,125 +1,257 @@
-# Mistral_Ai-Free
-
-> 🌐 **Powered by:** https://acqq.dev
+# 💬 Chat Experience
 
 ## 🇺🇸 English
 
-**Mistral_Ai-Free** provides free access to Mistral AI models through the **HindSight Studio** platform.
+Experience powerful AI conversations with **Mistral_Ai-Free**, powered by **HindSight Studio**.
 
-At **https://acqq.dev**, you can:
-
-- 💬 Chat with Mistral AI models for free.
-- 🤖 Access most available Mistral AI models.
-- 🔑 Register an account and request a **FREE API Key**.
-- 🚀 Build your own AI applications using our API.
+Our platform is designed to provide a fast, reliable, and user-friendly AI experience. Whether you're asking questions, generating content, writing code, translating languages, or simply chatting, you can communicate with Mistral AI models without any cost.
 
 ---
 
-## Free API Plan (Scale)
+## 🌍 Multilingual Support
 
-### API Limits
+Mistral_Ai-Free supports conversations in **almost every language** supported by Mistral AI.
 
-| Resource | Limit |
-|----------|-------|
-| Requests | Up to **6 requests/second** *(scalable on demand)* |
-| Input Tokens | Up to **2M tokens/minute** *(scalable)* |
-| Monthly Input Tokens | Up to **10B tokens/month** *(scalable)* |
+Examples include:
 
-### Embedding API 🧠
+- 🇺🇸 English
+- 🇨🇳 Chinese (简体中文 / 繁體中文)
+- 🇯🇵 Japanese
+- 🇰🇷 Korean
+- 🇻🇳 Vietnamese
+- 🇫🇷 French
+- 🇩🇪 German
+- 🇪🇸 Spanish
+- 🇮🇹 Italian
+- 🇷🇺 Russian
+- 🇵🇹 Portuguese
+- 🇹🇭 Thai
+- 🇮🇩 Indonesian
+- 🇲🇾 Malay
+- 🇦🇪 Arabic
+- and many more...
 
-| Resource | Limit |
-|----------|-------|
-| Tokens | **20M tokens/minute** |
-| Monthly Tokens | **200M tokens/month** |
-
----
-
-## Included Features ✨
-
-- ✅ Access to frontier Mistral AI models
-- ✅ Agent creation & deployment
-- ✅ Fine-tuning API access
-- ✅ Preview & Beta features
-- ✅ Full platform capabilities
+You can freely switch between languages within the same conversation.
 
 ---
 
-## Getting Started
+## 📝 Message Length
 
-1. Visit **https://acqq.dev**
-2. Register an account.
-3. Login to your dashboard.
-4. Request a **Free API Key**.
-5. Start building with Mistral AI.
+Unlike many free AI services, Mistral_Ai-Free allows significantly longer conversations.
 
----
+Each message supports up to:
 
-## License
+> **4,000 characters**
 
-Licensed under the **NSS-HNST License**
+This makes it ideal for:
 
-Copyright © 2026 HindSight Studio
-
----
-
-# 🇨🇳 中文
-
-**Mistral_Ai-Free** 由 **HindSight Studio** 提供，为用户免费提供 Mistral AI 模型及 API 服务。
-
-访问：
-
-> **https://acqq.dev**
-
-您可以：
-
-- 💬 免费与 Mistral AI 模型聊天。
-- 🤖 使用大多数可用的 Mistral AI 模型。
-- 🔑 注册账户并申请免费的 API Key。
-- 🚀 使用 API 构建自己的 AI 应用程序。
+- Long-form writing
+- Source code generation
+- Documentation
+- Story writing
+- Technical explanations
+- Academic content
+- Large prompts
+- Multi-language translation
 
 ---
 
-## 免费 API（Scale）
+## ⚡ Fast AI Responses
 
-### API 限额
+Our infrastructure is optimized to provide:
 
-| 资源 | 限制 |
-|------|------|
-| 请求 | 每秒最多 **6 次请求**（可扩展） |
-| 输入 Token | 每分钟最多 **200 万 Token**（可扩展） |
-| 每月输入 Token | 每月最多 **100 亿 Token**（可扩展） |
+- Low latency
+- Stable response speed
+- High availability
+- Reliable API performance
+- Continuous service uptime
 
-### Embedding API 🧠
-
-| 资源 | 限制 |
-|------|------|
-| Token | 每分钟 **2000 万 Token** |
-| 每月 Token | 每月 **2 亿 Token** |
+Whether you are chatting through the website or using the API, responses are generated quickly and efficiently.
 
 ---
 
-## 包含功能 ✨
+## 🤖 Available Models
 
-- ✅ 使用最新 Mistral AI 模型
-- ✅ 创建与部署 AI Agent
-- ✅ 支持 Fine-tuning API
-- ✅ 体验 Preview 与 Beta 功能
-- ✅ 完整平台功能
+Access a wide range of official Mistral AI models directly from our platform.
 
----
+Depending on availability, you can use:
 
-## 快速开始
+- Chat models
+- Reasoning models
+- Coding models
+- Vision-capable models
+- Embedding models
+- Experimental preview models
 
-1. 打开 **https://acqq.dev**
-2. 注册账户。
-3. 登录后台。
-4. 申请免费的 API Key。
-5. 开始开发您的 AI 应用。
+New models are added as they become available.
 
 ---
 
-## License
+# 🔊 Automatic Text-to-Speech (TTS)
 
-**NSS-HNST License**
+One of the built-in features of Mistral_Ai-Free is automatic Text-to-Speech.
 
-Copyright © 2026 HindSight Studio
+Every AI response can be converted into natural speech with a single click.
+
+This feature is useful for:
+
+- Listening instead of reading
+- Accessibility
+- Language learning
+- Hands-free usage
+- Mobile users
+
+---
+
+## Current Language Support
+
+At the moment, Mistral AI officially supports Text-to-Speech only for:
+
+- 🇺🇸 English
+- 🇫🇷 French
+
+Other languages are not yet supported by the official Mistral TTS engine.
+
+Once Mistral AI releases additional language support, Mistral_Ai-Free will enable them automatically without requiring any changes from users.
+
+---
+
+## 🚀 Designed for Everyone
+
+Mistral_Ai-Free is suitable for:
+
+- Developers
+- Students
+- Researchers
+- Businesses
+- Content creators
+- Teachers
+- AI enthusiasts
+
+Whether you're building applications with our API or simply chatting online, our goal is to make advanced AI accessible to everyone.
+
+---
+
+# 💬 聊天体验
+
+## 🇨🇳 中文
+
+欢迎使用 **Mistral_Ai-Free**，由 **HindSight Studio** 提供支持。
+
+我们致力于为所有用户提供快速、稳定且免费的 Mistral AI 使用体验。无论您是日常聊天、编写代码、翻译语言、生成文章、学习知识还是开发 AI 应用，都可以轻松使用我们的平台。
+
+---
+
+## 🌍 多语言支持
+
+Mistral_Ai-Free 支持 Mistral AI 支持的大多数语言，包括但不限于：
+
+- 🇺🇸 英语
+- 🇨🇳 中文（简体 / 繁體）
+- 🇯🇵 日语
+- 🇰🇷 韩语
+- 🇻🇳 越南语
+- 🇫🇷 法语
+- 🇩🇪 德语
+- 🇪🇸 西班牙语
+- 🇮🇹 意大利语
+- 🇷🇺 俄语
+- 🇵🇹 葡萄牙语
+- 🇹🇭 泰语
+- 🇮🇩 印度尼西亚语
+- 🇲🇾 马来语
+- 🇦🇪 阿拉伯语
+
+您可以在同一个聊天中自由切换语言，无需重新开始会话。
+
+---
+
+## 📝 消息长度
+
+每条消息最多支持：
+
+> **4000 个字符**
+
+适用于：
+
+- 长篇文章
+- 程序代码
+- 技术文档
+- AI 提示词
+- 多语言翻译
+- 学术内容
+- 小说创作
+- 项目说明
+
+---
+
+## ⚡ 快速响应
+
+平台经过优化，可提供：
+
+- 低延迟
+- 快速生成回复
+- 稳定运行
+- 高可用性
+- 持续在线服务
+
+无论是在网页聊天还是通过 API 调用，都可以获得流畅的 AI 使用体验。
+
+---
+
+## 🤖 支持的模型
+
+您可以直接访问官方提供的大多数 Mistral AI 模型，包括：
+
+- 聊天模型
+- 推理模型
+- 编程模型
+- Vision 模型
+- Embedding 模型
+- 预览版本模型
+
+新的模型上线后，我们也会同步提供支持。
+
+---
+
+# 🔊 自动文本转语音（TTS）
+
+平台支持将 AI 回复自动转换为语音播放。
+
+该功能适用于：
+
+- 阅读辅助
+- 无障碍使用
+- 英语学习
+- 法语学习
+- 移动设备使用
+- 解放双手
+
+---
+
+## 当前支持的语言
+
+目前，Mistral AI 官方仅支持以下语言的文本转语音：
+
+- 🇺🇸 英语（English）
+- 🇫🇷 法语（Français）
+
+其他语言暂未开放 TTS。
+
+当 Mistral AI 官方增加新的语音语言后，我们的平台将第一时间支持，无需用户进行任何额外配置。
+
+---
+
+## ❤️ 为所有人打造
+
+Mistral_Ai-Free 适合：
+
+- 👨‍💻 开发者
+- 🎓 学生
+- 🧑‍🔬 研究人员
+- 🏢 企业
+- ✍️ 内容创作者
+- 👩‍🏫 教师
+- 🤖 AI 爱好者
+
+我们的目标是让每个人都能够免费、便捷地体验最新的 Mistral AI 技术，并通过开放的平台帮助开发者快速构建属于自己的 AI 应用。
