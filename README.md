@@ -1,257 +1,279 @@
-# 💬 Chat Experience
+# 🎯 Who is Mistral_Ai-Free for?
 
 ## 🇺🇸 English
 
-Experience powerful AI conversations with **Mistral_Ai-Free**, powered by **HindSight Studio**.
+Mistral_Ai-Free is designed to make AI more accessible for everyone by providing free access to Mistral AI models through our platform.
 
-Our platform is designed to provide a fast, reliable, and user-friendly AI experience. Whether you're asking questions, generating content, writing code, translating languages, or simply chatting, you can communicate with Mistral AI models without any cost.
+However, it is important to understand what this service is intended for.
+
+This platform focuses on **lightweight AI usage**, everyday tasks, and learning experiences. While Mistral models are powerful, they are not intended to replace enterprise-grade AI workflows or highly customized production systems.
+
+Our goal is to provide a simple, free, and convenient AI service for daily use rather than a complete long-term enterprise solution.
 
 ---
 
-## 🌍 Multilingual Support
+## Best Use Cases
 
-Mistral_Ai-Free supports conversations in **almost every language** supported by Mistral AI.
+### 👨‍🎓 Students
+
+Perfect for students who need help with:
+
+- Writing essays
+- Homework assistance
+- Story writing
+- Novel creation
+- Language translation
+- Learning new concepts
+- Summarizing documents
+- Brainstorming ideas
+
+---
+
+### 👨‍💻 Developers
+
+Suitable for developers who need AI assistance for everyday programming tasks.
 
 Examples include:
 
-- 🇺🇸 English
-- 🇨🇳 Chinese (简体中文 / 繁體中文)
-- 🇯🇵 Japanese
-- 🇰🇷 Korean
-- 🇻🇳 Vietnamese
-- 🇫🇷 French
-- 🇩🇪 German
-- 🇪🇸 Spanish
-- 🇮🇹 Italian
-- 🇷🇺 Russian
-- 🇵🇹 Portuguese
-- 🇹🇭 Thai
-- 🇮🇩 Indonesian
-- 🇲🇾 Malay
-- 🇦🇪 Arabic
-- and many more...
+- Writing small scripts
+- Generating boilerplate code
+- Debugging common issues
+- Learning programming languages
+- Explaining code
+- Creating sample projects
+- Testing prompts
+- Exploring APIs
 
-You can freely switch between languages within the same conversation.
+While the models can generate quality code, we recommend reviewing all generated code before using it in production.
 
 ---
 
-## 📝 Message Length
+### 👤 Everyday Users
 
-Unlike many free AI services, Mistral_Ai-Free allows significantly longer conversations.
+Ideal for casual AI usage such as:
 
-Each message supports up to:
-
-> **4,000 characters**
-
-This makes it ideal for:
-
-- Long-form writing
-- Source code generation
-- Documentation
-- Story writing
-- Technical explanations
-- Academic content
-- Large prompts
-- Multi-language translation
+- Daily conversations
+- Asking questions
+- Quick information lookup
+- Writing emails
+- Creating social media posts
+- Entertainment
+- Brainstorming ideas
 
 ---
 
-## ⚡ Fast AI Responses
+# ⚠️ Limitations
 
-Our infrastructure is optimized to provide:
+Although Mistral AI models are highly capable, this platform is **not intended for complex enterprise workloads**.
 
-- Low latency
-- Stable response speed
-- High availability
-- Reliable API performance
-- Continuous service uptime
+It may not be the best choice for:
 
-Whether you are chatting through the website or using the API, responses are generated quickly and efficiently.
+- Large enterprise systems
+- Mission-critical business applications
+- Long-context professional research
+- Complex reasoning pipelines
+- Highly customized AI agents
+- Large-scale production environments
 
----
-
-## 🤖 Available Models
-
-Access a wide range of official Mistral AI models directly from our platform.
-
-Depending on availability, you can use:
-
-- Chat models
-- Reasoning models
-- Coding models
-- Vision-capable models
-- Embedding models
-- Experimental preview models
-
-New models are added as they become available.
+If your project requires these capabilities, you may benefit from using more advanced commercial AI platforms.
 
 ---
 
-# 🔊 Automatic Text-to-Speech (TTS)
+# Recommendation
 
-One of the built-in features of Mistral_Ai-Free is automatic Text-to-Speech.
+If you need higher reasoning capabilities, larger context windows, or enterprise-grade AI performance, you may consider using models from providers such as:
 
-Every AI response can be converted into natural speech with a single click.
+- Claude
+- ChatGPT
+- Gemini
+- Grok
+- Other advanced LLM providers
 
-This feature is useful for:
-
-- Listening instead of reading
-- Accessibility
-- Language learning
-- Hands-free usage
-- Mobile users
+These platforms generally provide stronger reasoning, larger context windows, and additional enterprise features.
 
 ---
 
-## Current Language Support
+## Claude Recommendation
 
-At the moment, Mistral AI officially supports Text-to-Speech only for:
+If you choose Claude, our recommendation is:
 
-- 🇺🇸 English
-- 🇫🇷 French
+### Paid Plan
 
-Other languages are not yet supported by the official Mistral TTS engine.
+Use:
 
-Once Mistral AI releases additional language support, Mistral_Ai-Free will enable them automatically without requiring any changes from users.
+- Claude Sonnet
+- Claude Opus
+
+Reasoning level:
+
+- High
+- Medium
+
+These settings generally provide the best balance between reasoning quality and performance.
+
+### Free Plan
+
+If you're using Claude Free, we recommend using:
+
+**Low reasoning mode**
+
+This helps reduce hourly usage limits while still delivering good responses for everyday tasks.
 
 ---
 
-## 🚀 Designed for Everyone
+# Our Mission
 
-Mistral_Ai-Free is suitable for:
+We are **not trying to replace enterprise AI platforms.**
 
-- Developers
-- Students
-- Researchers
-- Businesses
-- Content creators
-- Teachers
-- AI enthusiasts
+Instead, our mission is simple:
 
-Whether you're building applications with our API or simply chatting online, our goal is to make advanced AI accessible to everyone.
+- Make AI accessible.
+- Keep it free.
+- Help students learn.
+- Help developers build faster.
+- Help everyone enjoy AI without unnecessary complexity.
+
+Sometimes, simple is exactly what you need.
 
 ---
 
-# 💬 聊天体验
+# 🎯 适用人群
 
 ## 🇨🇳 中文
 
-欢迎使用 **Mistral_Ai-Free**，由 **HindSight Studio** 提供支持。
+Mistral_Ai-Free 旨在为所有用户提供免费、简单且易于使用的 AI 服务。
 
-我们致力于为所有用户提供快速、稳定且免费的 Mistral AI 使用体验。无论您是日常聊天、编写代码、翻译语言、生成文章、学习知识还是开发 AI 应用，都可以轻松使用我们的平台。
+在使用之前，我们希望您了解本平台的定位。
 
----
+本平台主要面向**日常使用、学习以及轻量级开发**，而不是大型企业级 AI 解决方案。
 
-## 🌍 多语言支持
+虽然 Mistral AI 模型拥有不错的能力，但它并不是专门针对企业复杂业务场景而设计，也不能完全替代高级商业 AI 平台。
 
-Mistral_Ai-Free 支持 Mistral AI 支持的大多数语言，包括但不限于：
+我们的目标是：
 
-- 🇺🇸 英语
-- 🇨🇳 中文（简体 / 繁體）
-- 🇯🇵 日语
-- 🇰🇷 韩语
-- 🇻🇳 越南语
-- 🇫🇷 法语
-- 🇩🇪 德语
-- 🇪🇸 西班牙语
-- 🇮🇹 意大利语
-- 🇷🇺 俄语
-- 🇵🇹 葡萄牙语
-- 🇹🇭 泰语
-- 🇮🇩 印度尼西亚语
-- 🇲🇾 马来语
-- 🇦🇪 阿拉伯语
-
-您可以在同一个聊天中自由切换语言，无需重新开始会话。
+**免费、简单、易用。**
 
 ---
 
-## 📝 消息长度
+## 最适合以下用户
 
-每条消息最多支持：
-
-> **4000 个字符**
+### 👨‍🎓 学生
 
 适用于：
 
-- 长篇文章
-- 程序代码
-- 技术文档
-- AI 提示词
-- 多语言翻译
-- 学术内容
-- 小说创作
-- 项目说明
+- 写作文
+- 完成作业
+- 写小说
+- 创作故事
+- 总结文章
+- 翻译语言
+- 学习知识
+- 激发灵感
 
 ---
 
-## ⚡ 快速响应
+### 👨‍💻 开发者
 
-平台经过优化，可提供：
+适用于日常开发工作，例如：
 
-- 低延迟
-- 快速生成回复
-- 稳定运行
-- 高可用性
-- 持续在线服务
+- 编写代码
+- 生成示例代码
+- 调试程序
+- 学习新的编程语言
+- 解释代码
+- API 测试
+- Prompt 测试
 
-无论是在网页聊天还是通过 API 调用，都可以获得流畅的 AI 使用体验。
-
----
-
-## 🤖 支持的模型
-
-您可以直接访问官方提供的大多数 Mistral AI 模型，包括：
-
-- 聊天模型
-- 推理模型
-- 编程模型
-- Vision 模型
-- Embedding 模型
-- 预览版本模型
-
-新的模型上线后，我们也会同步提供支持。
+建议在生产环境使用前自行检查 AI 生成的代码。
 
 ---
 
-# 🔊 自动文本转语音（TTS）
+### 👤 普通用户
 
-平台支持将 AI 回复自动转换为语音播放。
+适用于：
 
-该功能适用于：
-
-- 阅读辅助
-- 无障碍使用
-- 英语学习
-- 法语学习
-- 移动设备使用
-- 解放双手
+- 日常聊天
+- 提问
+- 写邮件
+- 社交媒体内容
+- 获取简单信息
+- 娱乐交流
 
 ---
 
-## 当前支持的语言
+# ⚠️ 不适合
 
-目前，Mistral AI 官方仅支持以下语言的文本转语音：
+本平台**并不建议**用于：
 
-- 🇺🇸 英语（English）
-- 🇫🇷 法语（Français）
+- 大型企业系统
+- 企业级 AI 工作流
+- 高复杂度推理任务
+- 长上下文专业研究
+- 大规模生产环境
+- 高度定制 AI Agent
 
-其他语言暂未开放 TTS。
-
-当 Mistral AI 官方增加新的语音语言后，我们的平台将第一时间支持，无需用户进行任何额外配置。
+如果您的项目需要更强大的 AI 能力，我们建议选择专业商业 AI 平台。
 
 ---
 
-## ❤️ 为所有人打造
+# 推荐选择
 
-Mistral_Ai-Free 适合：
+如果您需要：
 
-- 👨‍💻 开发者
-- 🎓 学生
-- 🧑‍🔬 研究人员
-- 🏢 企业
-- ✍️ 内容创作者
-- 👩‍🏫 教师
-- 🤖 AI 爱好者
+- 更强推理能力
+- 更长上下文
+- 企业级稳定性
+- 更高准确率
 
-我们的目标是让每个人都能够免费、便捷地体验最新的 Mistral AI 技术，并通过开放的平台帮助开发者快速构建属于自己的 AI 应用。
+建议考虑：
+
+- Claude
+- ChatGPT
+- Gemini
+- Grok
+- 其他大型语言模型（LLM）
+
+这些平台通常更适合企业及专业应用。
+
+---
+
+## Claude 使用建议
+
+### 付费用户
+
+推荐：
+
+- Claude Sonnet
+- Claude Opus
+
+推理等级：
+
+- High
+- Medium
+
+能够获得更好的回答质量。
+
+### 免费用户
+
+如果使用 Claude 免费版，
+
+建议选择：
+
+**Low 推理模式**
+
+这样可以减少每小时额度消耗，同时满足日常使用需求。
+
+---
+
+# 我们的目标
+
+我们并不是要替代大型 AI 平台。
+
+我们的目标非常简单：
+
+- ✅ 免费使用 AI
+- ✅ 帮助学生学习
+- ✅ 帮助开发者快速开发
+- ✅ 让每个人都能轻松体验 AI
+
+对于很多人来说，一个简单、免费的 AI 服务已经足够。
